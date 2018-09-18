@@ -1,0 +1,55 @@
+caption{
+    text-align: left;
+    font-size: 34px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #b22222;
+    
+}   
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+}
+table {
+    font-family: arial, sans-serif;
+    width: 40%;
+    border-collapse: collapse;
+    box-shadow:  5px 10px 20px #ddd;
+    
+}
+
+td, th{
+    padding: 20px;
+}
+th{
+    font-weight: lighter;
+}
+
+tr{
+    border-bottom: 1px solid  #d1d0d0;
+}
+
+
+thead {
+    color: aliceblue;
+   
+    text-align: left;
+    padding: 20px;
+    
+    
+    background: #b22222;
+}
+.time{
+    background-color: #ddd;
+}
+.temp-hum{
+    background: #fff;
+    text-align: right;
+}
+.tem-hum1{
+    text-align: right;
+   
+    
+}
+
